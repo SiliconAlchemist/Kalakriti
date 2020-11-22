@@ -7,4 +7,5 @@ For the implementation, we used the code base of A-Frame and used their a-painte
 
 
 REFERENCES
+
 [1] https://github.com/aframevr/a-painter
